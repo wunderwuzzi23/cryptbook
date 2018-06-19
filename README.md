@@ -12,7 +12,9 @@ The mobile application is implemented for Windows Phone 7.
 I built this in 2011 as part of my MSc at the University of Liverpool, so they code is outdated and prototype like.
 
 Greetings,
-Johann Rehberger
+Johann Rehberger.
+
+
 
 
 ABSTRACT - ONLINE SOCIAL NETWORKS AND PRIVACY – LEVERAGING CRYPTOGRAPHY TO GAIN CONTROL 
