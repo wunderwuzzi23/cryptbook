@@ -15,9 +15,6 @@ I built this in 2011 as part of my MSc at the University of Liverpool, so they c
 Greetings,
 Johann Rehberger.
 
-
-
-
 ## ABSTRACT - ONLINE SOCIAL NETWORKS AND PRIVACY – LEVERAGING CRYPTOGRAPHY TO GAIN CONTROL 
 
 Online Social Networking platforms allow their customers to store and share information. A user might want to store information for themselves or share data with a small group of people, like family and close friends, or potentially everyone in the world. Users store personal information in online social networks and hence privacy aspects become relevant. If a user wants to keep certain information private or limited to a small audience, the user should be able to control that.
